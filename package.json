@@ -1,0 +1,22 @@
+{
+  "name": "skyblock-tool",
+  "version": "1.0.0",
+  "description": "A tool for bazaar flipping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsterixxxGallier/skyblock-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsterixxxGallier/skyblock-tool/issues"
+  },
+  "homepage": "https://github.com/AsterixxxGallier/skyblock-tool#readme",
+  "dependencies": {
+    "firebase": "^7.14.0"
+  }
+}
